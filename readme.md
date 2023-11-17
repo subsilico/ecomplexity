@@ -13,7 +13,7 @@ On offer are:
 
 What is left to the user is converting the epsilon-complexity results into a set of parameters via line fitting. Current research suggests that at least four parameters are needed to achieve a good fit.
 
-# The R markdown
+# The R Markdown
 
 ## Introduction
 
