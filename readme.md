@@ -1,4 +1,4 @@
-# E-Complexity : Paramaterize Timeseries and Timeseries-like Data
+# Epsilon-Complexity : Paramaterize Timeseries and Timeseries-like Data
 
 See https://arxiv.org/abs/1303.1777
 
