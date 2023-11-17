@@ -1,5 +1,7 @@
 # E-Complexity : Paramaterize Timeseries and Timeseries-like Data
 
+See https://arxiv.org/abs/1303.1777
+
 ![The curve genrated by the code](https://raw.githubusercontent.com/subsilico/ecomplexity/main/ecomplexitycurve.png)
 
 Shown is an example of how sine and cosine have the same e-complexity while random data is much different. (See how blue's the basal error is increased?) All that is left is parameterizing the curves to create a parameter hyperspace for your timeseries/timeseries-like data. 
