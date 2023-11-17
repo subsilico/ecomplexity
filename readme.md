@@ -9,20 +9,6 @@ What is left to the user is converting the epsilon-complexity results into a set
 
 # The R markdown
 
----
-title: "Epsilon Complexity Analysis using Monte Carlo and Cubic Splines"
-author: "Your Name"
-date: "`r Sys.Date()`"
-output:
-  html_document:
-    toc: yes
-    toc_float: yes
-  word_document:
-    toc: yes
-  pdf_document:
-    toc: yes
----
-
 ## Introduction
 
 This document presents an analysis of the epsilon-complexity of time series data using Monte Carlo simulations and cubic spline interpolation. We'll focus on two cases: a cosine function and a uniform random distribution.
