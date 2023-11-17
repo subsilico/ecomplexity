@@ -4,14 +4,14 @@ See https://arxiv.org/abs/1303.1777
 
 ![The curve genrated by the code](https://raw.githubusercontent.com/subsilico/ecomplexity/main/ecomplexitycurve.png)
 
-Shown is an example of how sine and cosine have the same e-complexity while random data is much different. (See how blue's basal error is increased?) All that is left is parameterizing the curves to create a parameter hyperspace for your timeseries/timeseries-like data. 
+Shown is an example of how sine and cosine have the same e-complexity curves while random data is much different. (See how blue's basal error is increased?) All that is left is parameterizing the curves to create a parameter hyperspace for your timeseries/timeseries-like data. 
 
-On offer are: 
+On offer in this repo are: 
 1) R-Project Markdown version of the code that is very slow but easy to understand,
 2) Python implementation that can be used easily,
 3) Cython routines for speedy monte-carlo simulations.
 
-What is left to the user is converting the epsilon-complexity results into a set of parameters via line fitting. Current research suggests that at least four parameters are needed to achieve a good fit.
+What is left to the user is converting the epsilon-complexity results into a set of parameters via line fitting. Current research suggests that at least four parameters are usually needed to achieve a good fit.
 
 # The R Markdown
 
