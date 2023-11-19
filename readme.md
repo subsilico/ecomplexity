@@ -10,7 +10,7 @@ On offer in this repo are:
 1) R-Project Markdown version of the code that is very slow but easy to understand,
 2) Python implementation that can be used easily,
 3) Cython routines for speedy monte-carlo simulations, and
-4) Docker application containerization ready for use with Kubernetes. (Works with Docker Desktop w/ Kubernetes support, WSL2 integration, and Ubuntu 20.04 LTS.)
+4) Docker application containerization ready for use with Kubernetes, and included sample Terraform config. (Works with Docker Desktop w/ Kubernetes support, WSL2 integration, and Ubuntu 20.04 LTS.)
 
 What is left to the user is converting the epsilon-complexity results into a set of parameters via line fitting. Current research suggests that at least four parameters are usually needed to achieve a good fit.
 
